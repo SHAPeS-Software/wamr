@@ -1,4 +1,5 @@
-![WAMR Logo](/assets/wamr.png)
+
+<img src="/assets/wamr.png" width="128" alt="Lil WAMR">
 
 # WhereAreMyRepos (WAMR)
 

@@ -1,3 +1,5 @@
+![WAMR Logo](/assets/wamr.png)
+
 # WhereAreMyRepos (WAMR)
 
 *Version 0.1.0*

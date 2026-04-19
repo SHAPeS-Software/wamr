@@ -2,7 +2,7 @@ Gem::Specification.new do |spec|
   spec.name          = "wamr"
   spec.version       = "0.1.0"
   spec.authors       = ["ngonzalez"]
-  spec.email         = ["ngonzalez@gmail.com"]
+  spec.email         = ["noah.g.270stx@gmail.com"]
 
   spec.summary       = "Scan for Git repositories"
   spec.description   = "A quick tool to find projects that used Git that may be tucked away."

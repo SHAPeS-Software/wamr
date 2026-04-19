@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/wamr'
+
+target_dir = ARGV[0] || "."
+
+WAMR::Scanner.new(target_dir).scan
